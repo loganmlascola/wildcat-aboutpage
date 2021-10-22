@@ -70,3 +70,19 @@ main, header{
     display: inline;
     text-align: center;
 }
+
+section {
+  background-color: #ff0000;
+  color: #fff;
+  padding: 4%;
+}
+
+article {
+  padding: 3%;
+}
+
+h3.section { /* making the h3 in a cool font */
+    font-size: 12px;
+    font-family: Gill Sans, sans-serif;
+    font-weight: bold;
+}
