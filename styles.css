@@ -86,3 +86,21 @@ h3.section { /* making the h3 in a cool font */
     font-family: Gill Sans, sans-serif;
     font-weight: bold;
 }
+
+table {
+    border: 2px solid red;
+}
+th {
+    text-align: center;
+    font-size: 3em;
+    color: black; 
+    font-weight: bold;
+    font-family: Gill Sans, sans-serif;
+}
+
+td {
+    text-align: center;
+    font-size: 1.25em;
+    color: black;
+    font-family: Gill Sans, sans-serif;
+}
